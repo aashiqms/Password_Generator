@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\.idea\\inspectionProfiles",
+    "\\generator",
+    "\\generator\\migrations",
+    "\\generator\\migrations\\__pycache__",
+    "\\generator\\templates",
+    "\\generator\\templates\\generator",
+    "\\generator\\__pycache__",
+    "\\mysite"
+  ],
+  "SelectedNode": "\\generator",
+  "PreviewInSolutionExplorer": false
+}
